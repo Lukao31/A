@@ -10,7 +10,7 @@ function verificadorVelocidade() {
 
     // Operação do Verificador de velocidade
     if(velocidadeCondutor > velocidadePermitida) {
-        outResposta.textContent = "Situação: Multa leve" 
+        outResposta.textContent = "Situação: Você tomou multa, ande mais devagar!" 
     } 
     
     if(velocidadeCondutor <= velocidadePermitida) {
