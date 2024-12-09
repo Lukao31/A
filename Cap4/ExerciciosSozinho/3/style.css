@@ -1,0 +1,22 @@
+img {
+    float: left;
+    width: 350px;
+    height: 350px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px #888;
+}
+
+h1 {
+    margin-left: 400px;
+    
+}
+
+form {
+    margin-left: 400px;
+}
+
+h3 {
+    margin-left: 400px;
+}
